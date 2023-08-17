@@ -9,7 +9,7 @@ Tools used:
 
 ## Notes and Things to Consider
 
-1. Creating Button and OrderList components and import into OrderView component.
+1. Create Button and OrderList components and import into OrderView component.
 2. Incorporate css framework eg: Bootstrap, TailWind, Material UI
 3. Install css preprocessor such as sass to improve clean css code. Move css to dedicated scss files for each component. Create global css variables. Create mixins to reuse styles.
 4. Implement a loader to let users know order is currently processing
